@@ -1,0 +1,29 @@
+Entidades
+
+Atracciones
+proovedor
+Operador
+Tecnico
+Orden de Servicio(debil)
+Cliente
+
+Atributos
+
+Atracción:
+Nombre, Tipo, Duración del Mantenimiento (atributo derivado)
+
+Proveedor:
+Nombre, Contacto
+
+Empleado:
+Nombre, Contacto, Especialidad
+
+Cliente:
+Nombre, Contacto
+
+Técnico:
+Nombre, Especialidad
+
+Orden de Servicio:
+Fecha, Duración, Estado
+
